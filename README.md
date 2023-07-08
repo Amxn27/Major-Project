@@ -1,4 +1,4 @@
-# Snap Up an Online shopping-with-advanced-admin-page
+# Snap Up an Online shopping Website -with-advanced-admin-page
 Updated version
 
 
